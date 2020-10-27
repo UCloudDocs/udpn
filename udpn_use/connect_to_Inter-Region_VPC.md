@@ -2,7 +2,7 @@
 
 VPC打通注意事项详见 [VPC规划](https://docs.ucloud.cn/vpc/configurationguide/vpcguide)-VPC联通规则。
 
-> 目前仅支持同账号的跨地域打通
+> 目前仅支持同账号的跨地域打通。
 
 ## 方法一：UDPN页面进行跨地域内网打通
 ### 1、购买UDPN线路
