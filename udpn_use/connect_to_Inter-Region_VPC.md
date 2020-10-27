@@ -22,7 +22,7 @@ UDPN网络互通页面，广州选中VPC1，点击**VPC联通管理**，在弹�
 > 提示：点击UDPN-网络互通页面中***切换*** 后刷新，UDPN展示视角会发生切换。
 
 
-
+### 3、查看打通
 联通后可以在UDPN概览页面查看线路两地的出口带宽。
 ![](/images/udpn_watch.png)
 
@@ -31,13 +31,15 @@ UDPN网络互通页面，广州选中VPC1，点击**VPC联通管理**，在弹�
 
 ## 方法二：VPC页面进行跨地域内网打通
 
-VPC页面进行跨地域内网打通其实也就是购买一条联通两地的UDPN线路，然后将两地域的VPC进行打通。
-
-在VPC详情-网络互通页面，点击“联通VPC”。
+### 1、在VPC详情-网络互通页面，点击“联通VPC”。
 ![](/images/create_connection_vpc.png)
 
-VPC联通页面，选择需要打通的VPC所处地域，然后选择需要打通的VPC，点击“立即购买”进行打通。如果在之前没有购买两地的UDPN线路，会和下图一样，让你选择UDPN线路的参数，在点击“立即购买”后，后完成UDPN线路购买和VPC打通两个动作。
+### 2、进行联通
+在VPC联通页面，选择需要打通的VPC所处地域，然后选择需要打通的VPC，点击“立即购买”进行打通。
+
+如果在之前没有购买两地的UDPN线路，会和下图一样，让你选择UDPN线路的参数，在点击“立即购买”后，后完成UDPN线路购买和VPC打通两个动作。
 ![](/images/create_connection_vpc2.png)
 
+### 3、管理UDPN线路
 新购的UDPN线路可以在[控制台UDPN页面](https://console.ucloud.cn/udpn/udpn)查看和进行操作。
 ![](/images/udpn_watch.png)
