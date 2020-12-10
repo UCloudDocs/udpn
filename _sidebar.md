@@ -1,4 +1,3 @@
-<div class="sidebar_title icon__udpn"> 高速通道 UDPN</div>
 
 * [概览](/udpn/README)
 * [使用指南](/udpn/guide) 
