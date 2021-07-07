@@ -9,7 +9,7 @@ VPC打通注意事项详见 [VPC规划](https://docs.ucloud.cn/vpc/configuration
 
 进入到[控制台UDPN页面](https://console.ucloud.cn/udpn/udpn)，点击**开启高速通道**，选择购买需要打通的可用区的线路。
 
-假如我们需要广州的VPC1联通在北京二的VPC2，购买广州-北京二（或者北京二-广州都是一样的）的线路即可，UDPN操作见[使用指南](/udpn/guide) 。
+假如我们需要广州的VPC1联通在华北（北京）的VPC2，购买广州-华北（北京）（或者华北（北京）-广州都是一样的）的线路即可，UDPN操作见[使用指南](/udpn/guide) 。
 ![](/images/create_udpn.png)
 
 如果已经购买了需要打通地域的UDPN线路，则直接进行下一步。
